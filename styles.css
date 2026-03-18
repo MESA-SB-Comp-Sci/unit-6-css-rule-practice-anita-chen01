@@ -1,0 +1,39 @@
+h1 {
+    color:white;
+}
+
+p { 
+     text-align: center; 
+}
+
+main {
+    background-color:blueviolet;
+}
+
+h1 {
+    background-color: black;
+}
+
+h1 {
+    text-shadow: 5px 5px 10px white;
+}
+
+h1 { 
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+p {
+     text-decoration-line: underline;
+     text-decoration-style: wavy;
+}
+
+body {
+      background-image: url("/assets/sunset.jpg");
+}
+
+footer {
+    background-color:black;
+}
